@@ -1,0 +1,32 @@
+    body {
+      background-color: white;
+      color: white;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+   p {
+     color: black;
+   }
+   h6 {
+     color: black;
+   }
+   h5 {
+     color: black;
+   }
+   h4 {
+     color: black;
+   }
+   h3 {
+     color: black;
+   }
+   h2 {
+     color: black;
+   }
+   h1 {
+     color: black;
+   }
+   div {
+     background-color: black;
+     color: black;
+     border: 5px solid white;
+   }
