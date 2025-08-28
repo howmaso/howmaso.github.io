@@ -1,0 +1,20 @@
+<html>
+  //i forgor how to use html btw so this is goutta be weird as shit. also coding on a tablet so lol
+  //i dont care what anyone says, html IS a programming language. i can embed JS, so fuck you
+  <head>
+  //head? nah im not gay
+  <embed src="totallynotcopyrightedmusic.mp3" type="audio/mp3" autostart="true" hidden="true" loop="true">
+  <title> New Tab </title>
+  </head>
+  <body>
+    <h1> welcome to my cult </h1>
+    <p> song is</p><a href="https://youtu.be/0UsRW4F9LVY"> Super Mario Land Theme, as improvised by Tom Brier</a>
+    <p> cant wait to be sued lol </p>
+    <br>
+    <p> below you will find an index of links. use ctrl + f to find stuff because why would i put a search bar when chrome has one already </p>
+    <a href="https://www.coolmathgames.com">coolmathgames</a>
+    <a href="https://docs.mrchromebox.tech">hack your chromebook</a>
+    <a href="https://cb.whale.x10.mx">chromebook exploit guide (youll need this if you want to unenroll your chromebook)</a>
+    <a href="https://kasmweb.com">kasm workspaces</a>
+</body>
+  </html>
